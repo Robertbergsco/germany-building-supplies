@@ -1,3 +1,3 @@
 # germany-building-supplies
 Building 
-my_car = Car("BMW")
+Car("BMW")
